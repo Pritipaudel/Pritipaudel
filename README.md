@@ -6,7 +6,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritipaudel&label=Profile%20views&color=0e75b6&style=flat" alt="pritipaudel" /> </p>
-🌱 I’m currently learning Python’s libraries and Statistics
+🌱 I’m currently learning JavaScript
 
 📫 Reach me at preetipaudel456@gmail.com
 
